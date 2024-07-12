@@ -13,7 +13,7 @@ An online drum machine application built with HTML, CSS, and JavaScript using th
 - **Visual Progress Indicator**: Shows the current step being played.
 
 ## Usage
-- **Check this live demo
+- **Check this live demo 
 
 ## License
 
